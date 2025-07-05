@@ -1,1 +1,3 @@
 # Customer-Purchase-analytics-system
+
+# Customer Purchase Analysis using K-Means Clustering is a data-driven approach to segment customers based on their buying behaviors. By analyzing transactional data—such as purchase frequency, amount spent, and product categories—K-Means clustering groups customers into distinct segments with similar purchasing patterns. This unsupervised machine learning technique helps businesses identify high-value customers, tailor marketing strategies, personalize offerings, and improve customer retention. The insights gained enable more targeted decision-making, ultimately enhancing customer satisfaction and business performance.
